@@ -1,6 +1,8 @@
-pdfplumber==0.5.28
-pandas~=2.2.3
-sentence-transformers==2.1.0
-pymongo==3.12.0
-numpy~=2.2.1
-transformers~=4.48.0
+torch==2.1.0
+diffusers==0.25.0
+transformers==4.37.0
+accelerate==0.26.0
+xformers==0.0.23.post1
+Pillow==10.2.0
+pyttsx3==2.90
+python-dateutil==2.8.2
