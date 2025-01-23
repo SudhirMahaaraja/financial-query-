@@ -12,15 +12,7 @@ A powerful financial document analysis tool that extracts and processes data fro
 - Interactive web interface using Streamlit
 - TF-IDF based similarity search for relevant information retrieval
 
-## 🛠️ Tech Stack
 
-- **Python 3.8+**
-- **Streamlit**: Web interface
-- **pdfplumber**: PDF data extraction
-- **MongoDB**: Data storage and retrieval
-- **NumPy**: Numerical computations
-- **Pandas**: Data manipulation
-- **Regular Expressions**: Text processing
 
 ## 📋 Prerequisites
 
